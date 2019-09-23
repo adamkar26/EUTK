@@ -1,5 +1,5 @@
 Zad. 1 
-Przygotuj propozycję zestawów komputerowych dla osób opisanych poniżej. Konfiguracja powinna zawierać 
+Przygotuj propozycję zestawów komputerowych dla osób opisanych poniżej. Konfiguracja powinna zawierać nazwę
 podzespołu, model, cenę brutto. Poniższe zestawy powinny być kompletne i oprócz podzespołów powinny zawierać 
 urządzenia peryferyjne takie jak monitor, klawiaturę, myszkę itd.
 
@@ -11,7 +11,7 @@ Internetu (YouTube, Facebook, serwisy informacyjne, VOD, gry online) oraz sporad
 Budżet to 2800zł, w tej cenie należy uwzględnić system operacyjny Windows 10.
 
 c) Firma NVFSD potrzebuje komputer do pracownika, którego zadaniem jest tworzenie rysunków w programie AutoCad. 
-Budżet to 3500zł.
+Budżet to 3500zł. UWAGA: w tym zestawie nie trzeba uwzględniać peryferiów.
 
 d) Janek poszukuje komputera do grania w gry oraz pracy szkolnej. Budżet to 4500zł. W tej cenie powinien być 
 system operacyjny Windows 10.    
